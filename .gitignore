@@ -224,6 +224,7 @@ dmypy.json
 
 data/*.csv
 mlruns
+Models/stacked/*
 
 
 #config file has sensitive data
