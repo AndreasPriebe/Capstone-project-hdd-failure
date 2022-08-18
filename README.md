@@ -5,6 +5,8 @@ The prediction is based on a stacked model consists of XGBoost and an artificial
 
 For a short introduction to the project, see the stakeholder presentation slides [here](https://github.com/felix-roc/hdd-anomaly-detection/blob/wcmphysics-readme-update/reports/to_fail_or_not_to_fail.pdf).
 
+The presentation also is on [Youtube](https://www.youtube.com/watch?v=8Y4Zsu5Pjcs&t=61s).
+
 
 # Installation
 One can set up a virtual environment and install the required standard packages simply by running
