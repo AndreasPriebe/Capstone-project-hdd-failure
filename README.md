@@ -8,7 +8,7 @@ For a short introduction to the project, see the stakeholder presentation slides
 The presentation also is on [Youtube](https://www.youtube.com/watch?v=8Y4Zsu5Pjcs&t).
 
 
-# Installation
+## Installation
 One can set up a virtual environment and install the required standard packages simply by running
 
     make setup
@@ -21,7 +21,7 @@ And run the following command to install the custom packages
 
     python setup.py install
 
-# Training and Prediction
+## Training and Prediction
 To train the model, one should first unzip the zipped csv file in the main, and then run:
 
     python -m src.train
