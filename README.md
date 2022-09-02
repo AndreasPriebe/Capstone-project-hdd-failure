@@ -5,7 +5,7 @@ The prediction is based on a stacked model consists of XGBoost and an artificial
 
 For a short introduction to the project, see the stakeholder presentation slides [here](https://github.com/AndreasPriebe/Capstone-project-hdd-failure/blob/diabe/reports/to_fail_or_not_to_fail.pdf).
 
-The presentation also is on [Youtube](https://www.youtube.com/watch?v=8Y4Zsu5Pjcs&t).
+The presentation is also on [Youtube](https://www.youtube.com/watch?v=8Y4Zsu5Pjcs&t).
 
 
 ## Installation
